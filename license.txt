@@ -1,65 +1,124 @@
-·ãÒ¶£¨LeafAuto£©Èí¼şĞí¿ÉĞ­Òé£¨ÕıÊ½°æ¡¤2024Äê11ÔÂ08ÈÕĞŞ¶©£©
+æ«å¶ï¼ˆLeafAutoï¼‰è½¯ä»¶è®¸å¯åè®®ï¼ˆæ­£å¼ç‰ˆÂ·2024å¹´11æœˆ08æ—¥ä¿®è®¢ï¼‰
 
-Ç°ÑÔ
+å‰è¨€
 
-±¾¡¶·ãÒ¶£¨LeafAuto£©Èí¼şĞí¿ÉĞ­Òé¡·£¨ÒÔÏÂ¼ò³Æ¡°±¾Ğ­Òé¡±£©ÊÇYangshengzhou¹«Ë¾£¨ÒÔÏÂ¼ò³Æ¡°Ğí¿É·½¡±£©ÓëÓÃ»§£¨ÎŞÂÛÊÇ¸öÈËÓÃ»§»¹ÊÇ·¨ÈËÊµÌå£¬ÒÔÏÂÍ³³ÆÎª¡°ÓÃ»§¡±£©Ö®¼ä¾Í·ãÒ¶£¨LeafAuto£©Èí¼ş£¨ÒÔÏÂ¼ò³Æ¡°Èí¼ş¡±£©µÄºÏ·¨Ê¹ÓÃ¡¢·şÎñÌá¹©¼°Ë«·½È¨ÀûÒåÎñËù´ï³ÉµÄÈ«Ãæ¡¢Ïê¾¡µÄ·¨ÂÉĞ­Òé¡£±¾Ğ­ÒéÖ¼ÔÚÃ÷È·Ë«·½ÔÚÊ¹ÓÃÈí¼ş¹ı³ÌÖĞµÄÈ¨Àû¡¢ÒåÎñ¼°ÔğÈÎ£¬È·±£Ë«·½ºÏ·¨È¨ÒæµÃµ½±£ÕÏ¡£ÓÃ»§ÔÚ°²×°¡¢¸´ÖÆ¡¢ÏÂÔØ¡¢·ÃÎÊ»òÒÔÆäËûÈÎºÎ·½Ê½Ê¹ÓÃ±¾Èí¼şÊ±£¬¼´ÊÓÎªÒÑ³ä·ÖÔÄ¶Á¡¢Àí½â²¢Í¬Òâ½ÓÊÜ±¾Ğ­ÒéµÄËùÓĞÌõ¿îºÍÌõ¼ş¡£ÈôÓÃ»§²»Í¬Òâ±¾Ğ­ÒéÖĞµÄÈÎºÎÌõ¿î£¬Ó¦Á¢¼´Í£Ö¹ËùÓĞÓëÈí¼şÏà¹ØµÄ²Ù×÷£¬²¢Ğ¶ÔØÒÑ°²×°µÄÈí¼ş¡£
+æœ¬ã€Šæ«å¶ï¼ˆLeafAutoï¼‰è½¯ä»¶è®¸å¯åè®®ã€‹ï¼ˆä»¥ä¸‹ç®€ç§°â€œæœ¬åè®®â€ï¼‰æ˜¯Yangshengzhouå…¬å¸ï¼ˆä»¥ä¸‹ç®€ç§°â€œè®¸å¯æ–¹â€ï¼‰ä¸ç”¨æˆ·ï¼ˆæ— è®ºæ˜¯ä¸ªäººç”¨æˆ·è¿˜æ˜¯æ³•äººå®ä½“ï¼Œä»¥ä¸‹ç»Ÿç§°ä¸ºâ€œç”¨æˆ·â€ï¼‰ä¹‹é—´å°±æ«å¶ï¼ˆLeafAutoï¼‰è½¯ä»¶ï¼ˆä»¥ä¸‹ç®€ç§°â€œè½¯ä»¶â€ï¼‰çš„åˆæ³•ä½¿ç”¨ã€æœåŠ¡æä¾›åŠåŒæ–¹æƒåˆ©ä¹‰åŠ¡æ‰€è¾¾æˆçš„å…¨é¢ã€è¯¦å°½çš„æ³•å¾‹åè®®ã€‚æœ¬åè®®æ—¨åœ¨æ˜ç¡®åŒæ–¹åœ¨ä½¿ç”¨è½¯ä»¶è¿‡ç¨‹ä¸­çš„æƒåˆ©ã€ä¹‰åŠ¡åŠè´£ä»»ï¼Œç¡®ä¿åŒæ–¹åˆæ³•æƒç›Šå¾—åˆ°ä¿éšœã€‚ç”¨æˆ·åœ¨å®‰è£…ã€å¤åˆ¶ã€ä¸‹è½½ã€è®¿é—®æˆ–ä»¥å…¶ä»–ä»»ä½•æ–¹å¼ä½¿ç”¨æœ¬è½¯ä»¶æ—¶ï¼Œå³è§†ä¸ºå·²å……åˆ†é˜…è¯»ã€ç†è§£å¹¶åŒæ„æ¥å—æœ¬åè®®çš„æ‰€æœ‰æ¡æ¬¾å’Œæ¡ä»¶ã€‚è‹¥ç”¨æˆ·ä¸åŒæ„æœ¬åè®®ä¸­çš„ä»»ä½•æ¡æ¬¾ï¼Œåº”ç«‹å³åœæ­¢æ‰€æœ‰ä¸è½¯ä»¶ç›¸å…³çš„æ“ä½œï¼Œå¹¶å¸è½½å·²å®‰è£…çš„è½¯ä»¶ã€‚
 
-Ò»¡¢Ğí¿ÉÊÚÈ¨
+ä¸€ã€è®¸å¯æˆæƒ
 
-1.1 ·Ç¶ÀÕ¼ĞÔĞí¿É£ºĞí¿É·½ÌØ´ËÏòÓÃ»§ÊÚÓèÒ»Ïî·Ç¶ÀÕ¼ĞÔ¡¢²»¿É×ªÈÃµÄĞí¿É£¬ÔÊĞíÓÃ»§ÔÚ·ûºÏ±¾Ğ­Òé¹æ¶¨µÄÌõ¼şÏÂ£¬ÔÚµ¥Ò»»òÖ¸¶¨µÄÖÕ¶ËÉè±¸ÉÏ°²×°²¢Ê¹ÓÃ±¾Èí¼ş¡£
+1.1 éç‹¬å æ€§è®¸å¯ï¼šè®¸å¯æ–¹ç‰¹æ­¤å‘ç”¨æˆ·æˆäºˆä¸€é¡¹éç‹¬å æ€§ã€ä¸å¯è½¬è®©çš„è®¸å¯ï¼Œå…è®¸ç”¨æˆ·åœ¨ç¬¦åˆæœ¬åè®®è§„å®šçš„æ¡ä»¶ä¸‹ï¼Œåœ¨å•ä¸€æˆ–æŒ‡å®šçš„ç»ˆç«¯è®¾å¤‡ä¸Šå®‰è£…å¹¶ä½¿ç”¨æœ¬è½¯ä»¶ã€‚
 
-1.2 ÏŞÖÆ·´Ïò¹¤³Ì£ºÓÃ»§³ĞÅµ²»½øĞĞ·´Ïò¹¤³Ì¡¢·´±àÒë¡¢½âÂë¡¢ÆÆ½â»òÒÔÆäËûÈÎºÎ·½Ê½ÊÔÍ¼»ñÈ¡±¾Èí¼şµÄÔ´´úÂë¡¢Ëã·¨¡¢Êı¾İ½á¹¹¡¢Éè¼ÆÂß¼­»ò¼¼ÊõÃØÃÜ¡£
+1.2 é™åˆ¶åå‘å·¥ç¨‹ï¼šç”¨æˆ·æ‰¿è¯ºä¸è¿›è¡Œåå‘å·¥ç¨‹ã€åç¼–è¯‘ã€è§£ç ã€ç ´è§£æˆ–ä»¥å…¶ä»–ä»»ä½•æ–¹å¼è¯•å›¾è·å–æœ¬è½¯ä»¶çš„æºä»£ç ã€ç®—æ³•ã€æ•°æ®ç»“æ„ã€è®¾è®¡é€»è¾‘æˆ–æŠ€æœ¯ç§˜å¯†ã€‚
 
-1.3 ½ûÖ¹×ªÈÃ£ºÓÃ»§ÎŞÈ¨³ö×â¡¢×âÁŞ¡¢×ªÊÛ¡¢Ğí¿É»òÒÔÆäËûÈÎºÎĞÎÊ½×ªÈÃ±¾Èí¼şµÄÊ¹ÓÃÈ¨»ò±¾Ğ­ÒéËù¸³ÓèµÄÈÎºÎÈ¨Àû¡£
+1.3 ç¦æ­¢è½¬è®©ï¼šç”¨æˆ·æ— æƒå‡ºç§Ÿã€ç§Ÿèµã€è½¬å”®ã€è®¸å¯æˆ–ä»¥å…¶ä»–ä»»ä½•å½¢å¼è½¬è®©æœ¬è½¯ä»¶çš„ä½¿ç”¨æƒæˆ–æœ¬åè®®æ‰€èµ‹äºˆçš„ä»»ä½•æƒåˆ©ã€‚
 
-1.4 ºÏ·¨ÓÃÍ¾£ºÓÃ»§±£Ö¤½«±¾Èí¼ş½öÓÃÓÚºÏ·¨¡¢ºÏ¹æµÄÄ¿µÄ£¬²»´ÓÊÂÈÎºÎÎ¥·¨¡¢ÇÖÈ¨¡¢ÆÛÕ©¡¢É§ÈÅ»òÆäËûËğº¦ËûÈËºÏ·¨È¨ÒæµÄĞĞÎª¡£
+1.4 åˆæ³•ç”¨é€”ï¼šç”¨æˆ·ä¿è¯å°†æœ¬è½¯ä»¶ä»…ç”¨äºåˆæ³•ã€åˆè§„çš„ç›®çš„ï¼Œä¸ä»äº‹ä»»ä½•è¿æ³•ã€ä¾µæƒã€æ¬ºè¯ˆã€éªšæ‰°æˆ–å…¶ä»–æŸå®³ä»–äººåˆæ³•æƒç›Šçš„è¡Œä¸ºã€‚
 
-¶ş¡¢Èí¼şËùÓĞÈ¨
+äºŒã€è½¯ä»¶æ‰€æœ‰æƒ
 
-2.1 ÖªÊ¶²úÈ¨¹éÊô£º±¾Èí¼ş¼°ÆäËùÓĞ×é¼ş¡¢ÎÄµµ¡¢½çÃæÉè¼Æ¡¢¼¼Êõ¼Ü¹¹¡¢Ëã·¨¡¢Ô´´úÂëµÈµÄÖªÊ¶²úÈ¨¾ù¹éĞí¿É·½ËùÓĞ£¬ÊÜÖĞ»ªÈËÃñ¹²ºÍ¹ú¼°¹ú¼Ê°æÈ¨·¨¡¢×¨Àû·¨¡¢ÉÌ±ê·¨µÈÏà¹Ø·¨ÂÉ·¨¹æµÄ±£»¤¡£
+2.1 çŸ¥è¯†äº§æƒå½’å±ï¼šæœ¬è½¯ä»¶åŠå…¶æ‰€æœ‰ç»„ä»¶ã€æ–‡æ¡£ã€ç•Œé¢è®¾è®¡ã€æŠ€æœ¯æ¶æ„ã€ç®—æ³•ã€æºä»£ç ç­‰çš„çŸ¥è¯†äº§æƒå‡å½’è®¸å¯æ–¹æ‰€æœ‰ï¼Œå—ä¸­åäººæ°‘å…±å’Œå›½åŠå›½é™…ç‰ˆæƒæ³•ã€ä¸“åˆ©æ³•ã€å•†æ ‡æ³•ç­‰ç›¸å…³æ³•å¾‹æ³•è§„çš„ä¿æŠ¤ã€‚
 
-2.2 Ê¹ÓÃÈ¨ÏŞÖÆ£ºÓÃ»§½ö»ñµÃ°´ÕÕ±¾Ğ­Òé¹æ¶¨Ê¹ÓÃ±¾Èí¼şµÄÓĞÏŞÈ¨Àû£¬²¢²»ÏíÓĞÈí¼şµÄËùÓĞÈ¨»òÈÎºÎĞÎÊ½µÄÖªÊ¶²úÈ¨¡£
+2.2 ä½¿ç”¨æƒé™åˆ¶ï¼šç”¨æˆ·ä»…è·å¾—æŒ‰ç…§æœ¬åè®®è§„å®šä½¿ç”¨æœ¬è½¯ä»¶çš„æœ‰é™æƒåˆ©ï¼Œå¹¶ä¸äº«æœ‰è½¯ä»¶çš„æ‰€æœ‰æƒæˆ–ä»»ä½•å½¢å¼çš„çŸ¥è¯†äº§æƒã€‚
 
-Èı¡¢Ê¹ÓÃÏŞÖÆ
+ä¸‰ã€ä½¿ç”¨é™åˆ¶
 
-3.1 ½ûÖ¹ĞŞ¸Ä£ºÓÃ»§²»µÃ¶Ô±¾Èí¼ş½øĞĞÈÎºÎĞÎÊ½µÄĞŞ¸Ä¡¢¸Ä±à¡¢·­Òë¡¢²ğ½â¡¢ºÏ²¢»ò´´×÷ÑÜÉú×÷Æ·¡£
+3.1 ç¦æ­¢ä¿®æ”¹ï¼šç”¨æˆ·ä¸å¾—å¯¹æœ¬è½¯ä»¶è¿›è¡Œä»»ä½•å½¢å¼çš„ä¿®æ”¹ã€æ”¹ç¼–ã€ç¿»è¯‘ã€æ‹†è§£ã€åˆå¹¶æˆ–åˆ›ä½œè¡ç”Ÿä½œå“ã€‚
 
-3.2 ±£»¤°æÈ¨ĞÅÏ¢£ºÓÃ»§ÔÚÊ¹ÓÃ±¾Èí¼şÊ±£¬Ó¦±£Áô²¢²»µÃÉÃ×ÔÉ¾³ı¡¢¸²¸Ç»ò¸ü¸ÄÈí¼şÖĞµÄÈÎºÎ°æÈ¨¡¢ÉÌ±ê¡¢×¨Àû¡¢ÉÌÒµÃØÃÜ»òÆäËû×¨ÓĞÈ¨ÀûÉùÃ÷¡£
+3.2 ä¿æŠ¤ç‰ˆæƒä¿¡æ¯ï¼šç”¨æˆ·åœ¨ä½¿ç”¨æœ¬è½¯ä»¶æ—¶ï¼Œåº”ä¿ç•™å¹¶ä¸å¾—æ“…è‡ªåˆ é™¤ã€è¦†ç›–æˆ–æ›´æ”¹è½¯ä»¶ä¸­çš„ä»»ä½•ç‰ˆæƒã€å•†æ ‡ã€ä¸“åˆ©ã€å•†ä¸šç§˜å¯†æˆ–å…¶ä»–ä¸“æœ‰æƒåˆ©å£°æ˜ã€‚
 
-3.3 ×ñÊØ·¨ÂÉ·¨¹æ£ºÓÃ»§Ó¦×ñÊØËùÓĞÊÊÓÃµÄ·¨ÂÉ·¨¹æ¡¢ĞĞÒµ¹æ·¶¼°±¾Ğ­ÒéµÄ¹æ¶¨£¬²»µÃÀûÓÃÈí¼ş½øĞĞÈÎºÎÎ¥·¨¡¢Î¥¹æ»òËğº¦ËûÈËÀûÒæµÄ»î¶¯¡£
+3.3 éµå®ˆæ³•å¾‹æ³•è§„ï¼šç”¨æˆ·åº”éµå®ˆæ‰€æœ‰é€‚ç”¨çš„æ³•å¾‹æ³•è§„ã€è¡Œä¸šè§„èŒƒåŠæœ¬åè®®çš„è§„å®šï¼Œä¸å¾—åˆ©ç”¨è½¯ä»¶è¿›è¡Œä»»ä½•è¿æ³•ã€è¿è§„æˆ–æŸå®³ä»–äººåˆ©ç›Šçš„æ´»åŠ¨ã€‚
 
-ËÄ¡¢ÃâÔğÉùÃ÷
+å››ã€å…è´£å£°æ˜
 
-4.1 ÏÖ×´Ìá¹©£º±¾Èí¼ş°´¡°ÏÖ×´¡±¼°¡°¿ÉÓÃ¡±×´Ì¬Ìá¹©¸øÓÃ»§£¬Ğí¿É·½²»¶ÔÆä½øĞĞÈÎºÎĞÎÊ½µÄÃ÷Ê¾»ò°µÊ¾µ£±££¬°üÀ¨µ«²»ÏŞÓÚÊÊÏúĞÔ¡¢ÌØ¶¨ÓÃÍ¾ÊÊÓÃĞÔ¡¢ÎŞ²¡¶¾¡¢ÎŞ´íÎó¡¢²»ÇÖÈ¨µÈµ£±£¡£
+4.1 ç°çŠ¶æä¾›ï¼šæœ¬è½¯ä»¶æŒ‰â€œç°çŠ¶â€åŠâ€œå¯ç”¨â€çŠ¶æ€æä¾›ç»™ç”¨æˆ·ï¼Œè®¸å¯æ–¹ä¸å¯¹å…¶è¿›è¡Œä»»ä½•å½¢å¼çš„æ˜ç¤ºæˆ–æš—ç¤ºæ‹…ä¿ï¼ŒåŒ…æ‹¬ä½†ä¸é™äºé€‚é”€æ€§ã€ç‰¹å®šç”¨é€”é€‚ç”¨æ€§ã€æ— ç—…æ¯’ã€æ— é”™è¯¯ã€ä¸ä¾µæƒç­‰æ‹…ä¿ã€‚
 
-4.2 ¹ÊÕÏ²»±£Ö¤£ºĞí¿É·½²»±£Ö¤±¾Èí¼şÄÜ¹»³ÖĞøÎŞ¹ÊÕÏÔËĞĞ£¬Ò²²»³Ğµ£ÒòÈí¼ş´íÎó¡¢¹ÊÕÏ¡¢È±Ïİ»òÂ©¶´µ¼ÖÂµÄÈÎºÎÔğÈÎ£¬°üÀ¨µ«²»ÏŞÓÚÖ±½Ó¡¢¼ä½Ó¡¢ÌØÊâ¡¢Å¼È»»òºó¹ûĞÔËğº¦¡£
+4.2 æ•…éšœä¸ä¿è¯ï¼šè®¸å¯æ–¹ä¸ä¿è¯æœ¬è½¯ä»¶èƒ½å¤ŸæŒç»­æ— æ•…éšœè¿è¡Œï¼Œä¹Ÿä¸æ‰¿æ‹…å› è½¯ä»¶é”™è¯¯ã€æ•…éšœã€ç¼ºé™·æˆ–æ¼æ´å¯¼è‡´çš„ä»»ä½•è´£ä»»ï¼ŒåŒ…æ‹¬ä½†ä¸é™äºç›´æ¥ã€é—´æ¥ã€ç‰¹æ®Šã€å¶ç„¶æˆ–åæœæ€§æŸå®³ã€‚
 
-Îå¡¢ÔğÈÎÏŞÖÆ
+äº”ã€è´£ä»»é™åˆ¶
 
-5.1 Ëğº¦Åâ³¥ÏŞÖÆ£ºÔÚÈÎºÎÇé¿öÏÂ£¬Ğí¿É·½¾ù²»¶ÔÒòÊ¹ÓÃ»òÎŞ·¨Ê¹ÓÃ±¾Èí¼ş¶ø²úÉúµÄÈÎºÎÖ±½Ó¡¢¼ä½Ó¡¢ÌØÊâ¡¢Å¼È»»òºó¹ûĞÔËğº¦£¨°üÀ¨µ«²»ÏŞÓÚÀûÈóËğÊ§¡¢ÒµÎñÖĞ¶Ï¡¢Êı¾İ¶ªÊ§¡¢ÉùÓşËğº¦µÈ£©³Ğµ£ÔğÈÎ£¬¼´Ê¹Ğí¿É·½ÒÑ±»¸æÖª´ËÀàËğº¦µÄ¿ÉÄÜĞÔ¡£
+5.1 æŸå®³èµ”å¿é™åˆ¶ï¼šåœ¨ä»»ä½•æƒ…å†µä¸‹ï¼Œè®¸å¯æ–¹å‡ä¸å¯¹å› ä½¿ç”¨æˆ–æ— æ³•ä½¿ç”¨æœ¬è½¯ä»¶è€Œäº§ç”Ÿçš„ä»»ä½•ç›´æ¥ã€é—´æ¥ã€ç‰¹æ®Šã€å¶ç„¶æˆ–åæœæ€§æŸå®³ï¼ˆåŒ…æ‹¬ä½†ä¸é™äºåˆ©æ¶¦æŸå¤±ã€ä¸šåŠ¡ä¸­æ–­ã€æ•°æ®ä¸¢å¤±ã€å£°èª‰æŸå®³ç­‰ï¼‰æ‰¿æ‹…è´£ä»»ï¼Œå³ä½¿è®¸å¯æ–¹å·²è¢«å‘ŠçŸ¥æ­¤ç±»æŸå®³çš„å¯èƒ½æ€§ã€‚
 
-5.2 ÔğÈÎÏŞ¶î£ºĞí¿É·½¶ÔÓÃ»§µÄ×î´óÔğÈÎÏŞ¶î²»³¬¹ıÓÃ»§Îª¹ºÂò±¾Èí¼şËùÖ§¸¶µÄÊµ¼Ê·ÑÓÃ£¨ÈçÓĞ£©£¬ÇÒÔÚÈÎºÎÇé¿öÏÂ¾ù²»°üÀ¨ÓÃ»§ÒòÊ¹ÓÃÈí¼ş¶ø¿ÉÄÜ»ñµÃµÄÈÎºÎÔ¤ÆÚÀûÒæ¡£
+5.2 è´£ä»»é™é¢ï¼šè®¸å¯æ–¹å¯¹ç”¨æˆ·çš„æœ€å¤§è´£ä»»é™é¢ä¸è¶…è¿‡ç”¨æˆ·ä¸ºè´­ä¹°æœ¬è½¯ä»¶æ‰€æ”¯ä»˜çš„å®é™…è´¹ç”¨ï¼ˆå¦‚æœ‰ï¼‰ï¼Œä¸”åœ¨ä»»ä½•æƒ…å†µä¸‹å‡ä¸åŒ…æ‹¬ç”¨æˆ·å› ä½¿ç”¨è½¯ä»¶è€Œå¯èƒ½è·å¾—çš„ä»»ä½•é¢„æœŸåˆ©ç›Šã€‚
 
-Áù¡¢Ğ­ÒéÖÕÖ¹
+å…­ã€åè®®ç»ˆæ­¢
 
-6.1 Î¥Ô¼ÖÕÖ¹£ºÈçÓÃ»§Î¥·´±¾Ğ­ÒéµÄÈÎºÎÌõ¿î£¬Ğí¿É·½ÓĞÈ¨Á¢¼´ÖÕÖ¹±¾Ğ­Òé£¬²¢ÒªÇóÓÃ»§Í£Ö¹Ê¹ÓÃ±¾Èí¼ş¡¢É¾³ıËùÓĞÈí¼ş¸±±¾¼°Ïà¹ØÊı¾İ¡£
+6.1 è¿çº¦ç»ˆæ­¢ï¼šå¦‚ç”¨æˆ·è¿åæœ¬åè®®çš„ä»»ä½•æ¡æ¬¾ï¼Œè®¸å¯æ–¹æœ‰æƒç«‹å³ç»ˆæ­¢æœ¬åè®®ï¼Œå¹¶è¦æ±‚ç”¨æˆ·åœæ­¢ä½¿ç”¨æœ¬è½¯ä»¶ã€åˆ é™¤æ‰€æœ‰è½¯ä»¶å‰¯æœ¬åŠç›¸å…³æ•°æ®ã€‚
 
-6.2 ÖÕÖ¹ºóÒåÎñ£ºĞ­ÒéÖÕÖ¹ºó£¬ÓÃ»§Ó¦Á¢¼´Ïú»Ù±¾Èí¼şµÄËùÓĞ¸±±¾¡¢ÎÄµµ¼°Ïà¹ØÊı¾İ£¬²¢È·±£²»ÔÙÒÔÈÎºÎĞÎÊ½Ê¹ÓÃ»ò·ÃÎÊ±¾Èí¼ş¡£
+6.2 ç»ˆæ­¢åä¹‰åŠ¡ï¼šåè®®ç»ˆæ­¢åï¼Œç”¨æˆ·åº”ç«‹å³é”€æ¯æœ¬è½¯ä»¶çš„æ‰€æœ‰å‰¯æœ¬ã€æ–‡æ¡£åŠç›¸å…³æ•°æ®ï¼Œå¹¶ç¡®ä¿ä¸å†ä»¥ä»»ä½•å½¢å¼ä½¿ç”¨æˆ–è®¿é—®æœ¬è½¯ä»¶ã€‚
 
-Æß¡¢·¨ÂÉÊÊÓÃÓëÕùÒé½â¾ö
+ä¸ƒã€æ³•å¾‹é€‚ç”¨ä¸äº‰è®®è§£å†³
 
-7.1 ·¨ÂÉÊÊÓÃ£º±¾Ğ­ÒéµÄ½âÊÍ¡¢Ğ§Á¦¼°ÕùÒé½â¾ö¾ùÊÊÓÃÖĞ»ªÈËÃñ¹²ºÍ¹ú·¨ÂÉ¡£
+7.1 æ³•å¾‹é€‚ç”¨ï¼šæœ¬åè®®çš„è§£é‡Šã€æ•ˆåŠ›åŠäº‰è®®è§£å†³å‡é€‚ç”¨ä¸­åäººæ°‘å…±å’Œå›½æ³•å¾‹ã€‚
 
-7.2 ÕùÒé½â¾ö£ºÒò±¾Ğ­ÒéÒıÆğµÄ»òÓë±¾Ğ­ÒéÓĞ¹ØµÄÈÎºÎÕùÒé£¬Ë«·½Ó¦Ê×ÏÈÍ¨¹ıÓÑºÃĞ­ÉÌ½â¾ö£»
+7.2 äº‰è®®è§£å†³ï¼šå› æœ¬åè®®å¼•èµ·çš„æˆ–ä¸æœ¬åè®®æœ‰å…³çš„ä»»ä½•äº‰è®®ï¼ŒåŒæ–¹åº”é¦–å…ˆé€šè¿‡å‹å¥½åå•†è§£å†³ï¼›
 
-°Ë¡¢ÆäËûÌõ¿î
+å…«ã€å…¶ä»–æ¡æ¬¾
 
-8.1 ±¾Ğ­Òé¹¹³ÉÓÃ»§ÓëĞí¿É·½Ö®¼ä¹ØÓÚ±¾Èí¼şÊ¹ÓÃµÄÍêÕûĞ­Òé£¬È¡´úË«·½Ö®Ç°¹ØÓÚ±¾Èí¼şÊ¹ÓÃµÄËùÓĞ¿ÚÍ·»òÊéÃæĞ­Òé¡£
+8.1 æœ¬åè®®æ„æˆç”¨æˆ·ä¸è®¸å¯æ–¹ä¹‹é—´å…³äºæœ¬è½¯ä»¶ä½¿ç”¨çš„å®Œæ•´åè®®ï¼Œå–ä»£åŒæ–¹ä¹‹å‰å…³äºæœ¬è½¯ä»¶ä½¿ç”¨çš„æ‰€æœ‰å£å¤´æˆ–ä¹¦é¢åè®®ã€‚
 
-8.2 ±¾Ğ­ÒéµÄÈÎºÎĞŞ¸Ä»ò²¹³ä¾ùÓ¦ÒÔÊéÃæĞÎÊ½½øĞĞ£¬²¢¾­Ë«·½Ç©×Ö»ò¸ÇÕÂºóÉúĞ§¡£
+8.2 æœ¬åè®®çš„ä»»ä½•ä¿®æ”¹æˆ–è¡¥å……å‡åº”ä»¥ä¹¦é¢å½¢å¼è¿›è¡Œï¼Œå¹¶ç»åŒæ–¹ç­¾å­—æˆ–ç›–ç« åç”Ÿæ•ˆã€‚
 
-8.3 Èç±¾Ğ­ÒéµÄÈÎºÎ²¿·Ö±»ÈÏ¶¨ÎªÎŞĞ§»ò²»¿ÉÖ´ĞĞ£¬¸Ã²¿·Ö½«²»Ó°Ïì±¾Ğ­ÒéÆäËû²¿·ÖµÄÓĞĞ§ĞÔºÍ¿ÉÖ´ĞĞĞÔ¡£
+8.3 å¦‚æœ¬åè®®çš„ä»»ä½•éƒ¨åˆ†è¢«è®¤å®šä¸ºæ— æ•ˆæˆ–ä¸å¯æ‰§è¡Œï¼Œè¯¥éƒ¨åˆ†å°†ä¸å½±å“æœ¬åè®®å…¶ä»–éƒ¨åˆ†çš„æœ‰æ•ˆæ€§å’Œå¯æ‰§è¡Œæ€§ã€‚
 
-½áÊøÓï
+ç»“æŸè¯­
 
-±¾Ğ­ÒéÌõ¿î×ÔÓÃ»§Ê×´Î°²×°»òÊ¹ÓÃ·ãÒ¶£¨LeafAuto£©Èí¼şÖ®Ê±Æğ¼´¶ÔÓÃ»§²úÉú·¨ÂÉÔ¼ÊøÁ¦¡£ÓÃ»§ÔÚÊ¹ÓÃÈí¼şµÄ¹ı³ÌÖĞ£¬Ó¦³ÖĞø×ñÊØ±¾Ğ­ÒéµÄ¸÷Ïî¹æ¶¨£¬ÒÔÈ·±£ºÏ·¨¡¢ºÏ¹æµØÊ¹ÓÃÈí¼ş¡£ÎÒÃÇÆÚ´ıÓëÓÃ»§¹²Í¬Î¬»¤Ò»¸ö½¡¿µ¡¢°²È«µÄÈí¼şÊ¹ÓÃ»·¾³¡£
+æœ¬åè®®æ¡æ¬¾è‡ªç”¨æˆ·é¦–æ¬¡å®‰è£…æˆ–ä½¿ç”¨æ«å¶ï¼ˆLeafAutoï¼‰è½¯ä»¶ä¹‹æ—¶èµ·å³å¯¹ç”¨æˆ·äº§ç”Ÿæ³•å¾‹çº¦æŸåŠ›ã€‚ç”¨æˆ·åœ¨ä½¿ç”¨è½¯ä»¶çš„è¿‡ç¨‹ä¸­ï¼Œåº”æŒç»­éµå®ˆæœ¬åè®®çš„å„é¡¹è§„å®šï¼Œä»¥ç¡®ä¿åˆæ³•ã€åˆè§„åœ°ä½¿ç”¨è½¯ä»¶ã€‚æˆ‘ä»¬æœŸå¾…ä¸ç”¨æˆ·å…±åŒç»´æŠ¤ä¸€ä¸ªå¥åº·ã€å®‰å…¨çš„è½¯ä»¶ä½¿ç”¨ç¯å¢ƒã€‚
+
+
+LeafAuto Software License Agreement (Official Edition, Revised November 8, 2024)
+
+Preamble
+
+This "LeafAuto Software License Agreement" (hereinafter referred to as "this Agreement") is a comprehensive and detailed legal agreement between Yangshengzhou Company (hereinafter referred to as "the Licensor") and the user (whether an individual or a legal entity, hereinafter collectively referred to as "the User") regarding the lawful use of LeafAuto software (hereinafter referred to as "the Software"), service provision, and the rights and obligations of both parties. This Agreement aims to clarify the rights, obligations, and responsibilities of both parties during the use of the Software, ensuring the protection of their legitimate interests. By installing, copying, downloading, accessing, or using this Software in any other manner, the User acknowledges that they have fully read, understood, and agree to all terms and conditions of this Agreement. If the User does not agree with any term of this Agreement, they should immediately cease all operations related to the Software and uninstall any installed copies.
+
+License Grant
+1.1 Non-Exclusive License: The Licensor hereby grants the User a non-exclusive, non-transferable license to install and use the Software on a single or designated terminal device under the conditions stipulated by this Agreement.
+
+1.2 Reverse Engineering Restrictions: The User agrees not to reverse engineer, decompile, decode, crack, or attempt to obtain the source code, algorithms, data structures, design logic, or technical secrets of the Software through any other means.
+
+1.3 Prohibition of Transfer: The User has no right to rent, lease, resell, sublicense, or transfer in any form the right to use the Software or any rights granted under this Agreement.
+
+1.4 Legal Use: The User guarantees that the Software will be used solely for lawful and compliant purposes, without engaging in any illegal, infringing, fraudulent, harassing, or other activities that harm the legitimate rights and interests of others.
+
+Ownership of the Software
+2.1 Intellectual Property Rights: All intellectual property rights of the Software, including its components, documentation, interface designs, technical architecture, algorithms, and source code, belong to the Licensor and are protected by the copyright, patent, trademark laws of the People's Republic of China and international law.
+
+2.2 Usage Limitation: The User only obtains limited rights to use the Software as specified in this Agreement and does not acquire ownership or any form of intellectual property rights in the Software.
+
+Usage Restrictions
+3.1 Modification Prohibited: The User must not modify, adapt, translate, disassemble, merge, or create derivative works based on the Software in any form.
+
+3.2 Protection of Copyright Information: When using the Software, the User should retain and not remove, cover, or alter any copyright, trademark, patent, trade secret, or other proprietary notices contained within the Software.
+
+3.3 Compliance with Laws: The User must comply with all applicable laws, regulations, industry standards, and the provisions of this Agreement, and must not use the Software for any illegal, unauthorized, or harmful activities.
+
+Disclaimer
+4.1 As Is: The Software is provided to the User "as is" and "as available." The Licensor makes no express or implied warranties, including but not limited to merchantability, fitness for a particular purpose, absence of viruses, errors, or infringement.
+
+4.2 No Guarantee of Fault-Free Operation: The Licensor does not guarantee that the Software will operate continuously without faults and shall not be liable for any damages resulting from errors, defects, vulnerabilities, or bugs in the Software, including but not limited to direct, indirect, special, incidental, or consequential damages.
+
+Limitation of Liability
+5.1 Damage Compensation Limit: Under no circumstances will the Licensor be liable for any direct, indirect, special, incidental, or consequential damages (including but not limited to loss of profits, business interruption, data loss, reputational damage) arising from or related to the use or inability to use the Software, even if the Licensor has been informed of the possibility of such damages.
+
+5.2 Liability Cap: The maximum liability of the Licensor to the User shall not exceed the actual fees paid by the User for the Software (if any), and under no circumstances will it include any anticipated benefits the User might have obtained from using the Software.
+
+Termination of Agreement
+6.1 Breach Termination: If the User breaches any term of this Agreement, the Licensor has the right to terminate this Agreement immediately and require the User to stop using the Software, delete all copies of the Software and related data.
+
+6.2 Post-Termination Obligations: After termination of this Agreement, the User must immediately destroy all copies of the Software, documents, and related data and ensure that they do not use or access the Software in any form.
+
+Governing Law and Dispute Resolution
+7.1 Governing Law: The interpretation, validity, and dispute resolution of this Agreement shall be governed by the laws of the People's Republic of China.
+
+7.2 Dispute Resolution: Any disputes arising out of or relating to this Agreement shall first be resolved through friendly consultations between the parties.
+
+Miscellaneous
+8.1 This Agreement constitutes the entire agreement between the User and the Licensor concerning the use of the Software, superseding all prior oral or written agreements.
+
+8.2 Any modification or supplement to this Agreement must be made in writing and become effective upon signature or seal of both parties.
+
+8.3 If any part of this Agreement is found invalid or unenforceable, it will not affect the validity and enforceability of the remaining portions of this Agreement.
+
+Closing Remarks
+
+The terms of this Agreement become legally binding on the User from the moment they first install or use the LeafAuto Software. During the use of the Software, the User should continuously abide by the provisions of this Agreement to ensure lawful and compliant use. We look forward to maintaining a healthy and secure software usage environment together with our users.
